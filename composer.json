@@ -17,8 +17,8 @@
   ],
   "require": {
     "php": "^8.0",
-    "symfony/framework-bundle": "^6.0",
-    "symfony/console": "^6.0",
+    "symfony/framework-bundle": "^6.0 || ^7.0",
+    "symfony/console": "^6.0 || ^7.0",
     "doctrine/orm": "^3.2"
   },
   "autoload": {
